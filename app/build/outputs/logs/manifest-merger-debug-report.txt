@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c94db1d73ae4b1a8624b40c089b18d45\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\673ad337f6fbd23763da9ecb071cabba\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\b0dbffffd0729113dfa7877b408e95e8\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\6940b8739df8cbb5cf8ea1165444e33b\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8a172ad6d188a97f8b182c3c9c7a1506\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8ee0b0cd2485a31a9ab1a276bc76487a\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8233c5b163c1b3d54a5651cf885e4417\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\29ee480ebc4a42fdddd934d55e01ac11\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\72740d6957a10644be81bb2bbdf91755\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1d64a522a3e1d04c8460d3e91021ba28\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\6f2bcfcf08f4efce2f551032cb91738f\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\97684b6bb36bd46cbd6451165b0611d9\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d40efa7fa6dd691fdc085334ccf4a737\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\363b08b03e3aa508afc7c3765746778e\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\2002159b3b1743b89f5ae3a0fe7b05b7\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\71028082cf5c204fe72b80a93e1b1a57\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\51b0cb995daba2601160920ecb08c376\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\2b91424438df1840265dcbc533ff7765\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\43e8dd0f7a3e26eda30ce169d8e9ec3e\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d6cc88695a3aed62163794e931f2b878\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\40b5dc07e1ce91edbef0cef12eff7086\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8bb11a4bd5fa3fe60e4843032f1f2d19\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0820c5cc5b56e81ddf5ab53b81c3ceb5\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ca658c3294821ae0136f66873d43ee87\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7798097aa7f09ab64395b9d9567a3f39\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d23a7f9d5fa4defcca6f1ee5a77dc5bf\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bda0b6a1a971ff27476f80b386a84ff2\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c94db1d73ae4b1a8624b40c089b18d45\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c94db1d73ae4b1a8624b40c089b18d45\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\71028082cf5c204fe72b80a93e1b1a57\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\71028082cf5c204fe72b80a93e1b1a57\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\51b0cb995daba2601160920ecb08c376\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\51b0cb995daba2601160920ecb08c376\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:screenOrientation
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:8:9-47
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\71028082cf5c204fe72b80a93e1b1a57\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.vuzix.sample.vuzix_speech_recognition.MainActivity
+ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:12:13-55
+	android:exported
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:11:19-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c94db1d73ae4b1a8624b40c089b18d45\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c94db1d73ae4b1a8624b40c089b18d45\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\673ad337f6fbd23763da9ecb071cabba\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\673ad337f6fbd23763da9ecb071cabba\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\b0dbffffd0729113dfa7877b408e95e8\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\b0dbffffd0729113dfa7877b408e95e8\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\6940b8739df8cbb5cf8ea1165444e33b\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\6940b8739df8cbb5cf8ea1165444e33b\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8a172ad6d188a97f8b182c3c9c7a1506\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8a172ad6d188a97f8b182c3c9c7a1506\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8ee0b0cd2485a31a9ab1a276bc76487a\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8ee0b0cd2485a31a9ab1a276bc76487a\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8233c5b163c1b3d54a5651cf885e4417\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8233c5b163c1b3d54a5651cf885e4417\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\29ee480ebc4a42fdddd934d55e01ac11\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\29ee480ebc4a42fdddd934d55e01ac11\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\72740d6957a10644be81bb2bbdf91755\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\72740d6957a10644be81bb2bbdf91755\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1d64a522a3e1d04c8460d3e91021ba28\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1d64a522a3e1d04c8460d3e91021ba28\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\6f2bcfcf08f4efce2f551032cb91738f\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\6f2bcfcf08f4efce2f551032cb91738f\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\97684b6bb36bd46cbd6451165b0611d9\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\97684b6bb36bd46cbd6451165b0611d9\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d40efa7fa6dd691fdc085334ccf4a737\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d40efa7fa6dd691fdc085334ccf4a737\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\363b08b03e3aa508afc7c3765746778e\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\363b08b03e3aa508afc7c3765746778e\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\2002159b3b1743b89f5ae3a0fe7b05b7\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\2002159b3b1743b89f5ae3a0fe7b05b7\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\71028082cf5c204fe72b80a93e1b1a57\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\71028082cf5c204fe72b80a93e1b1a57\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\51b0cb995daba2601160920ecb08c376\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\51b0cb995daba2601160920ecb08c376\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\2b91424438df1840265dcbc533ff7765\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\2b91424438df1840265dcbc533ff7765\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\43e8dd0f7a3e26eda30ce169d8e9ec3e\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\43e8dd0f7a3e26eda30ce169d8e9ec3e\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d6cc88695a3aed62163794e931f2b878\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d6cc88695a3aed62163794e931f2b878\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\40b5dc07e1ce91edbef0cef12eff7086\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\40b5dc07e1ce91edbef0cef12eff7086\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8bb11a4bd5fa3fe60e4843032f1f2d19\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8bb11a4bd5fa3fe60e4843032f1f2d19\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0820c5cc5b56e81ddf5ab53b81c3ceb5\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0820c5cc5b56e81ddf5ab53b81c3ceb5\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ca658c3294821ae0136f66873d43ee87\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ca658c3294821ae0136f66873d43ee87\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7798097aa7f09ab64395b9d9567a3f39\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7798097aa7f09ab64395b9d9567a3f39\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d23a7f9d5fa4defcca6f1ee5a77dc5bf\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d23a7f9d5fa4defcca6f1ee5a77dc5bf\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bda0b6a1a971ff27476f80b386a84ff2\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bda0b6a1a971ff27476f80b386a84ff2\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Documents\Corrected Sample Apps\M400\Speech Command SDK Sample\app\src\main\AndroidManifest.xml

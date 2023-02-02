@@ -1,0 +1,12 @@
+com/vuzix/sample/vuzix_speech_recognition/VoiceCmdReceiver.java
+ com.vuzix.sample.vuzix_speech_recognition.VoiceCmdReceiver
+com/vuzix/sample/vuzix_speech_recognition/BuildConfig.java
+ com.vuzix.sample.vuzix_speech_recognition.BuildConfig
+com/vuzix/sample/vuzix_speech_recognition/MainActivity.java
+ com.vuzix.sample.vuzix_speech_recognition.MainActivity
+ com.vuzix.sample.vuzix_speech_recognition.MainActivity$1
+ com.vuzix.sample.vuzix_speech_recognition.MainActivity$2
+ com.vuzix.sample.vuzix_speech_recognition.MainActivity$3
+ com.vuzix.sample.vuzix_speech_recognition.MainActivity$4
+ com.vuzix.sample.vuzix_speech_recognition.MainActivity$5
+ com.vuzix.sample.vuzix_speech_recognition.MainActivity$MyIntentReceiver
