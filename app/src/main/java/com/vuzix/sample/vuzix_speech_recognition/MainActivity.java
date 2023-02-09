@@ -165,7 +165,7 @@ public class MainActivity extends Activity {
         //
         // We want this to toggle to state opposite our current one.
         mRecognizerActive = !mRecognizerActive;
-        // Manually calling this syncrhonizes our UI state to the recognizer state in case we're
+        // Manually calling this synchronizes our UI state to the recognizer state in case we're
         // requesting the current state, in which we won't be notified of a change.
         updateListenButtonText();
         // Request the new state

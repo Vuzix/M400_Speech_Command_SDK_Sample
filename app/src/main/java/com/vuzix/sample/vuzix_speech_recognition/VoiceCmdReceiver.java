@@ -210,16 +210,22 @@ public class VoiceCmdReceiver  extends BroadcastReceiver {
                     String phrase = intent.getStringExtra(VuzixSpeechClient.PHRASE_STRING_EXTRA);
                     Log.e(mMainActivity.LOG_TAG, mMainActivity.getMethodName() + " \"" + phrase + "\"");
                     // Determine the specific phrase that was recognized and act accordingly
-                    if (phrase.equals(MATCH_POPUP)) {
-                        mMainActivity.OnPopupClick();
-                    } else if (phrase.equals(MATCH_RESTORE)) {
-                        mMainActivity.OnRestoreClick();
-                    } else if (phrase.equals(MATCH_CLEAR)) {
-                        mMainActivity.OnClearClick();
-                    } else if (phrase.equals(MATCH_EDIT_TEXT)) {
-                        mMainActivity.SelectTextBox();
-                    } else {
-                        Log.e(mMainActivity.LOG_TAG, "Phrase not handled");
+                    switch (phrase) {
+                        case MATCH_POPUP:
+                            mMainActivity.OnPopupClick();
+                            break;
+                        case MATCH_RESTORE:
+                            mMainActivity.OnRestoreClick();
+                            break;
+                        case MATCH_CLEAR:
+                            mMainActivity.OnClearClick();
+                            break;
+                        case MATCH_EDIT_TEXT:
+                            mMainActivity.SelectTextBox();
+                            break;
+                        default:
+                            Log.e(mMainActivity.LOG_TAG, "Phrase not handled");
+                            break;
                     }
                 } else if (extras.containsKey(VuzixSpeechClient.RECOGNIZER_ACTIVE_BOOL_EXTRA)) {
                     // if we get a recognizer active bool extra, it means the recognizer was

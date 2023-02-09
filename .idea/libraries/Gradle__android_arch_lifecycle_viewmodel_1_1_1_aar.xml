@@ -5,10 +5,13 @@
       <root url="file://$USER_HOME$/gradle-1.9/caches/transforms-3/0820c5cc5b56e81ddf5ab53b81c3ceb5/transformed/viewmodel-1.1.1/res" />
       <root url="file://$USER_HOME$/gradle-1.9/caches/transforms-3/0820c5cc5b56e81ddf5ab53b81c3ceb5/transformed/viewmodel-1.1.1/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/gradle-1.9/caches/transforms-3/0820c5cc5b56e81ddf5ab53b81c3ceb5/transformed/viewmodel-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aec0ea4defabc9e0237f92ec01a32884/transformed/viewmodel-1.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/aec0ea4defabc9e0237f92ec01a32884/transformed/viewmodel-1.1.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/gradle-1.9/caches/modules-2/files-2.1/android.arch.lifecycle/viewmodel/1.1.1/d1cc8e805317f171be63c68341f499acda7e42d6/viewmodel-1.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/viewmodel/1.1.1/d1cc8e805317f171be63c68341f499acda7e42d6/viewmodel-1.1.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
