@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace "com.vuzix.sample.vuzix_speech_recognition"
     compileSdkVersion 33
     defaultConfig {
         applicationId "com.vuzix.sample.vuzix_speech_recognition"
@@ -23,5 +24,9 @@ android {
 
 dependencies {
     implementation 'com.android.support.constraint:constraint-layout:2.0.4'
-    implementation 'com.vuzix:sdk-speechrecognitionservice:1.95'
+    // To maintain consistency, configure this project to use the current version such as:
+    // implementation 'com.vuzix:connectivity-sdk:**VERSION NUMBER'
+    // Alternatively you may use the latest library which will automatically update
+    // from time to time. This is not recommended for production projects:
+    implementation 'com.vuzix:sdk-speechrecognitionservice:master-SNAPSHOT'
 }
